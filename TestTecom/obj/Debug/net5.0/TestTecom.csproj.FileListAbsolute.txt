@@ -1,0 +1,16 @@
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.csproj.AssemblyReference.cache
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.AssemblyInfoInputs.cache
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.AssemblyInfo.cs
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.csproj.CoreCompileInputs.cache
+C:\Users\uothy\source\repos\TestTecom\TestTecom\bin\Debug\net5.0\TestTecom.exe
+C:\Users\uothy\source\repos\TestTecom\TestTecom\bin\Debug\net5.0\TestTecom.deps.json
+C:\Users\uothy\source\repos\TestTecom\TestTecom\bin\Debug\net5.0\TestTecom.runtimeconfig.json
+C:\Users\uothy\source\repos\TestTecom\TestTecom\bin\Debug\net5.0\TestTecom.runtimeconfig.dev.json
+C:\Users\uothy\source\repos\TestTecom\TestTecom\bin\Debug\net5.0\TestTecom.dll
+C:\Users\uothy\source\repos\TestTecom\TestTecom\bin\Debug\net5.0\ref\TestTecom.dll
+C:\Users\uothy\source\repos\TestTecom\TestTecom\bin\Debug\net5.0\TestTecom.pdb
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.dll
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\ref\TestTecom.dll
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.pdb
+C:\Users\uothy\source\repos\TestTecom\TestTecom\obj\Debug\net5.0\TestTecom.genruntimeconfig.cache
